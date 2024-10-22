@@ -1,1 +1,1 @@
-# projeto-colaborativo
+# projeto_curso
